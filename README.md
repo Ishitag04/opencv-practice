@@ -79,3 +79,7 @@ Develop projects using OpenCV + ML
 
 This is primarily a learning repo, but feedback and suggestions are always welcome!
 
+## Future Scope 
+
+Will be adding the phases that are left in between and will be sharing it complete soon once I start with its revision
+
